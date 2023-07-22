@@ -1,0 +1,2 @@
+[workspace]
+members = ["xtask", "aya-perf-err-repro", "aya-perf-err-repro-common"]
